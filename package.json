@@ -1,0 +1,19 @@
+{
+  "name": "allskywatcherslackbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neodmy/allskyWatcherSlackbot.git"
+  },
+  "author": "David Miguel yusta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neodmy/allskyWatcherSlackbot/issues"
+  },
+  "homepage": "https://github.com/neodmy/allskyWatcherSlackbot#readme"
+}
