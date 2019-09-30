@@ -1,10 +1,7 @@
-const dotenv = require('dotenv');
-
 const botInit = require('./bot');
 
 const start = () => {
-  dotenv.config();
-  const bot = botInit.init('pruebas');
+  const bot = botInit.init(process.env.SLACK_CHANNEL);
   bot.startBot();
 };
 
